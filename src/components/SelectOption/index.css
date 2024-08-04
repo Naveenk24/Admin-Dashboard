@@ -1,0 +1,15 @@
+.select-option-conainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.select-element {
+  height: 40px;
+  border: none;
+  outline: none;
+  font-weight: 700;
+  font-family: Bree Serif;
+  color: #a9b3bd;
+  margin: 0;
+  padding-left: 15px;
+}
